@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calcuolatorapp</string>
+    <style name="AppTheme.NoActionBar">
+    <item name = "windowActionBar">false</item>
+        <item name = "windowNoTitle">true</item>
+    </style>
+</resources>
